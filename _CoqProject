@@ -1,0 +1,5 @@
+-R src/ VSTProgs
+-arg -w
+-arg all
+src/splay.v
+src/Verif_splay.v
